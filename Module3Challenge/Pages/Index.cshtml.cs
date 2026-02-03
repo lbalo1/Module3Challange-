@@ -56,7 +56,7 @@ namespace Module3Challenge.Pages
                     DayMessage = "Friday: Zoo Night Adventures! 🌌";
                     break;
                 case 7:
-                    DayMessage = "Saturday: Safari Exploration Day!" 🦏;
+                    DayMessage = "Saturday: Safari Exploration Day! 🦏";
                     break;
                 default:
                     DayMessage = "Invalid day selected. Try again!";
